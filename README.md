@@ -58,9 +58,9 @@
 ## Screenshots ### App running on local 
 
 1. **Running Server on Docker(Git Bash - Windows)**
-![img.png](screenshots/img.png)
-![img2.png](screenshots/img2.png)
+![img.png](src/screenshots/img.png)
+![img2.png](src/screenshots/img2.png)
 
 2. **Running Client on Docker(Git Bash - Windows)**
-![img.png](screenshots/img3.png)
+![img.png](src/screenshots/img3.png)
 
