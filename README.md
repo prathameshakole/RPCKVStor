@@ -1,4 +1,4 @@
-# **Project 2**
+# **RPC Key Value Store using RMI**
 
 **By Prathamesh Akole**
 
