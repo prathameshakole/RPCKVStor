@@ -1,0 +1,23 @@
+1729911372250: RMI Server started on port 7000 and bound to registry.
+1729911379083: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379092: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379094: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379096: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379098: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379101: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379103: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379105: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379106: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379110: SUCCESS: Key-Value Pair Saved Successfully!
+1729911379116: SUCCESS: Retrieved Key : Value Pair martin:king
+1729911379118: SUCCESS: Retrieved Key : Value Pair aditya:shinde
+1729911379118: SUCCESS: Retrieved Key : Value Pair dan:bilt
+1729911379120: SUCCESS: Retrieved Key : Value Pair kayla:holmes
+1729911379120: SUCCESS: Retrieved Key : Value Pair ishan:sarode
+1729911379121: SUCCESS: Key-Value Pair Deleted Successfully!
+1729911379122: SUCCESS: Key-Value Pair Deleted Successfully!
+1729911379124: SUCCESS: Key-Value Pair Deleted Successfully!
+1729911379125: SUCCESS: Key-Value Pair Deleted Successfully!
+1729911379126: SUCCESS: Key-Value Pair Deleted Successfully!
+1729911397322: SUCCESS: Key-Value Pair Saved Successfully!
+1729911400802: SUCCESS: Retrieved Key : Value Pair dhriti:anjaria
